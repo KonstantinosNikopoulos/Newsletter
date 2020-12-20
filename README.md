@@ -1,5 +1,5 @@
 # Newsletter
-Store emails for newsletter and mass email.
+Store emails for newsletter and send mass email.
 
 ## System Requirements
 Before starting please make sure that you have successfully installed the below technologies:
